@@ -27,7 +27,7 @@ section{
 	padding: 10px;
 	font-size: 15px;
 }
-.sec1{
+.latest-news-section{
 	position: absolute;
 	left:0vw;
 }
@@ -36,7 +36,7 @@ section{
 	left: 30vw;
 	width: 40vw;
 }
-.sec3{
+.pictorial-news-section{
 	display: flex;
 	flex-direction: column;
 	align-: space-between;
